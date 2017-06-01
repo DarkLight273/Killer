@@ -1,0 +1,15 @@
+<-CORE->
+cmd.exe
+svchost.exe
+conhost.exe
+<-GAME->
+/ts3client_win64.exe
+hamachi-2.exe
+hamachi-2-ui.exe
+Skype.exe
+<-LOL->
+LeagueClient.exe
+LeagueClientUx.exe
+LeagueClientUxHelper.exe
+League of Legends.exe
+LeagueClientUxRender.exe
